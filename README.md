@@ -8,7 +8,7 @@ AssociationAnalysis | DataMining_Apriori | Apriori-关联规则挖掘算法
 AssociationAnalysis | DataMining_FPTree | FPTree-频繁模式树算法
 BaggingAndBoosting | DataMining_AdaBoost | AdaBoost-装袋提升算法
 Classification | DataMining_CART | CART-分类回归树算法
-Classification | DataMining_ID3 | ID3-决策树分类算法
+Classification | DataMining_ID3 | ID3-决策树分类算法    https://blog.csdn.net/u014688145/article/details/53212112
 Classification | DataMining_KNN | KNN-k最近邻算法工具类
 Classification | DataMining_NaiveBayes | NaiveBayes-朴素贝叶斯算法
 Clustering | DataMining_BIRCH | BIRCH-层次聚类算法
